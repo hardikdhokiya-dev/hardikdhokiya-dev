@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm Hardik 👋
 
-<!--
-**hardikdhokiya-dev/hardikdhokiya-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer (Java + Automation)
 
-Here are some ideas to get you started:
+I build scalable backend systems using Java and Spring Boot, and design test automation frameworks using Playwright and modern engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Tech Stack
+
+### Programming
+- Java
+- Advanced Java
+- TypeScript
+- JavaScript
+- SQL
+- PL/SQL (Advanced)
+
+### Backend Development
+- Spring Framework
+- Spring Boot
+- Microservices (Learning / Understanding Architecture)
+
+### Automation Engineering
+- Playwright
+- Selenium WebDriver
+- TestComplete
+- API Automation (REST)
+- Postman / ReadyAPI
+
+### Databases
+- Oracle Database
+- MySQL
+- SQL (Advanced Queries)
+- PL/SQL (Advanced Development)
+
+### CI/CD & DevOps
+- Git / GitHub
+- GitHub Actions
+- Jenkins
+- Docker
+
+---
+
+## 🚀 What I Build
+
+- Backend applications using Java and Spring Boot
+- Scalable automation frameworks for UI and API testing
+- Reusable test architecture using modern design patterns
+- Data validation layers using SQL and PL/SQL
+- CI/CD integrated quality pipelines
+
+---
+
+## 📌 Focus Areas
+
+- Java Backend Development
+- Automation Framework Engineering
+- API & UI Automation
+- System Design Fundamentals
+- Clean Architecture & Design Patterns
+
+---
+
+## 📂 Featured Projects
+
+- Playwright Automation Framework (TypeScript)
+- Spring Boot Learning Projects
+- API Automation Framework (Java / JS)
+- Selenium Automation Framework (Java)
+
+---
+
+## 📫 Connect
+
+LinkedIn • GitHub
