@@ -9,6 +9,10 @@ Building scalable automation frameworks with Playwright & TypeScript while expan
 </p>
 
 <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hardikdhokiya-dev.hardikdhokiya-dev&left_text=Profile%20Views" />
+</p>
+
+<p align="center">
   <a href="mailto:hardikdhokiya12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
